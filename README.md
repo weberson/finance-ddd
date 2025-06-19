@@ -17,6 +17,8 @@ Mais importante do que o sistema em si é **a forma como ele será modelado**, u
 
 ---
 
+## Sobre a Série de Artigos
+
 A série está sendo escrita com os seguintes objetivos:
 - Consolidar e compartilhar o conhecimento sobre DDD
 - Ensinar conceitos complexos com uma abordagem acessível

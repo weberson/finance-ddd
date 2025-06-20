@@ -77,5 +77,5 @@ FinanceDDD.sln
 
 Weberson dos Santos Pereira
 
-📬 *Se quiser acompanhar a série, fique à vontade para seguir, contribuir ou abrir issues. Feedbacks são sempre bem-vindos!**
+📬 *Se quiser acompanhar a série, fique à vontade para seguir, contribuir ou abrir issues. Feedbacks são sempre bem-vindos!*
 
